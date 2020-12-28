@@ -1,6 +1,6 @@
  @font-face {
-  font-family: Orbitron;
-  src: url(Orbitron-Black.ttf);
+  font-family: ComicMono;
+  src: url(ComicMono-Bold.ttf);
 }
 
 html,
@@ -19,7 +19,7 @@ body{
 }
 
 h3{
-    font-family: Orbitron, sans-serif;
+    font-family: ComicMono, sans-serif;
     color: #B239FF;
 }
 
@@ -142,7 +142,7 @@ canvas[resize] {
 }
 
 #help{
-    font-family: Orbitron, sans-serif;
+    font-family: ComicMono, sans-serif;
     position: fixed;
     bottom: 0px;
     margin: 20px;
@@ -177,7 +177,7 @@ button{
   /*height: 40px;*/
   line-height: 3vw;
   font-size: 2vw;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'ComicMono', sans-serif;
   text-decoration: none;
   color: #B239FF;
   border: 2px solid #B239FF;

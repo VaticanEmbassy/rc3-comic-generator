@@ -89,7 +89,7 @@ function setColor(colNr){
 
 //generate text
 function setText(text){
-    opentype.load("Orbitron-Black.ttf", function(err, font) {
+    opentype.load("ComicMono-Bold.ttf", function(err, font) {
 
         if (err) {
             console.log(err.toString());
